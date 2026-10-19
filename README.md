@@ -1,2 +1,2 @@
-# Go
-repository Go Lang
+Hello World,
+This is my first repository to learn GoLang
